@@ -50,10 +50,6 @@
 
 ### 🚀 DevOps & Backend Pipeline (Summary)
 
-<p align="center">
-  <img src="[[YOUR_PIPELINE_IMAGE_URL](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fsystem-design%2Fcicd-pipeline-system-design%2F&psig=AOvVaw2g-whRVIFduEXwh5SPylk_&ust=1754895806792000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMib8LzW_44DFQAAAAAdAAAAABAE)](https://media.geeksforgeeks.org/wp-content/uploads/20250808165448638898/CI-CD.webp)" alt="CI/CD Pipeline Diagram" width="80%">
-</p>
-
 Pipeline flow (high level):  
 1. Provision VMs via OpenTofu/Terraform.  
 2. Deploy service containers on target VM(s).  
